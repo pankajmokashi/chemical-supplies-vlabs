@@ -33,6 +33,6 @@ git clone https://github.com/pankajmokashi/chemical-supplies-vlabs.git
 ```
 2. Navigate to the project directory:
 ```
-cd chemical-inventory-management
+cd chemical-supplies-vlabs
 ```
 3. Open the project in your browser by opening the index.html
